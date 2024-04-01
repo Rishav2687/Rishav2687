@@ -1,0 +1,24 @@
+body {
+  background-image: url('morning_sky.jpg'); /* Set a background image */
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.animation-box h1 { 
+  /* Add your 'Good Morning' text animation styles here */
+  font-size: 4em;
+  color: #f5df4d; /* Warm yellow for morning */
+}
+
+.dialog p {
+  font-size: 1.2em;
+}
